@@ -42,3 +42,11 @@ Building **IoT-based dashboards and automation tools** using React.js, Node.js, 
 ---
 
 ⭐ *“Code is not just logic — it’s creativity in structure.”*
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+
